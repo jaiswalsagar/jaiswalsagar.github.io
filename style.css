@@ -301,6 +301,18 @@ p {
 #serviceitem1 {
   background-image: url(./img/img-4.png);
 }
+#serviceitem5 {
+  background-image: url(./img/img-5.png);
+}
+#serviceitem2 {
+  background-image: url(./img/123.png);
+}
+#serviceitem3 {
+  background-image: url(./img/76.png);
+}
+#serviceitem4 {
+  background-image: url(./img/905.png);
+}
 #services .service-item::after {
   content: "";
   position: absolute;
